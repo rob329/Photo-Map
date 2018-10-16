@@ -1,21 +1,21 @@
-# Lab 6 - *Name of App Here*
+# Lab 6 - *PhotoMap*
 
-**Name of your app** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
+**PhotoMap** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
-- [ ] User can view a map (+2pt)
-- [ ] User can take a photo (+1pt)
-- [ ] User can tag a location (+1pt)
-- [ ] User can drop a pin with image annotation (+1pt)
+- [x] User can view a map (+2pt)
+- [x] User can take a photo (+1pt)
+- [x] User can tag a location (+1pt)
+- [x] User can drop a pin with image annotation (+1pt)
 
 The following **stretch** user stories are implemented:
 
-- [ ] User sees a custom annotation (+1pt)
+- [x] User sees a custom annotation (+1pt)
 - [ ] User can see Fullscreen Picture (+1pt)
 - [ ] User sees a custom image for the "pin" (+1pt)
 - [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
@@ -29,17 +29,17 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![photomap_gif](https://user-images.githubusercontent.com/22280621/46985983-a40ef580-d0b2-11e8-9e0c-0e4564466fcc.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenge for me was completing the delegate function. I had a little trouble understanding what exactly a delegate could do.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Robert Bolt]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
